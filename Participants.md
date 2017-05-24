@@ -25,4 +25,3 @@
 * Audrey Sage Lorberfeld (The New York Academy of Medicine) 
 * Robin Naughton (The New York Academy of Medicine)
 * Rachel Tillay (Tulane University)
-* Johanna Radding (Amherst College)
